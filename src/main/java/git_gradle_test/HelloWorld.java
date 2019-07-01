@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("local");
 		System.out.println("GitHub Editing");
 		System.out.println("local2");
+		System.out.println("GitHub Editing2");
 
 	}
 
